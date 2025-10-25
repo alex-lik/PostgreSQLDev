@@ -1,0 +1,5 @@
+-- Create multiple databases
+CREATE DATABASE db1;
+CREATE DATABASE db2;
+CREATE DATABASE db3;
+CREATE DATABASE db4;
